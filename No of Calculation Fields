@@ -1,0 +1,14 @@
+
+## Number of Calculated Fields
+
+This Tableau project utilizes **multiple calculated fields** to generate meaningful KPIs and summarize important metrics from the cosmetics dataset. These calculated fields enhance dashboard functionality by providing quick insights into product distribution, pricing, brand performance, and customer ratings.
+
+The key calculated fields used in the project include:
+
+- **Total Products** – Calculates the total number of cosmetic products available in the dataset.
+- **Total Brands** – Counts the total number of unique cosmetic brands.
+- **Average Price** – Computes the average price of all cosmetic products.
+- **Average Rank** – Calculates the average product ranking across the dataset.
+- **All Skin Types Count** – Calculates the total number of products suitable for **Dry, Oily, Combination, Normal, and Sensitive** skin types by aggregating products across all skin-type categories.
+
+The **ALL SKIN TYPES COUNT** calculated field provides an overall measure of product availability for different skin types, allowing users to analyze skincare coverage and identify how well cosmetic products cater to various consumer needs. These calculated fields improve dashboard interactivity and support efficient business analysis and decision-making.
